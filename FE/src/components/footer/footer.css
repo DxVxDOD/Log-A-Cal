@@ -1,3 +1,4 @@
 .footer {
-    background-color: blue;
+    border: solid yellow 2px;
+    height: 8%;
 }

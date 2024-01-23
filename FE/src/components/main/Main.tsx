@@ -2,8 +2,8 @@ import "./main.css";
 
 export default function Main() {
 	return (
-		<>
-			<div className="main">Main</div>
-		</>
+		<main className="main">
+			<div>Main</div>
+		</main>
 	);
 }

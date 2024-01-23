@@ -2,8 +2,8 @@ import "./footer.css";
 
 export default function Footer() {
 	return (
-		<>
-			<div className="footer">Footer</div>
-		</>
+		<footer className="footer">
+			<div>Footer</div>
+		</footer>
 	);
 }
