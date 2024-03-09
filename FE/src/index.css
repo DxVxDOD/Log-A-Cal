@@ -1,0 +1,23 @@
+html, body {
+    margin: 0; 
+    background-color: #212122;
+    height: 100vh;
+    scroll-behavior: smooth;
+    scrollbar-width: 0;
+}
+
+::-webkit-scrollbar {
+    width: 0.3em;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #656568;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #78787c;
+}
+
+#root {
+    height: 100%;   
+}
